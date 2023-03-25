@@ -1,0 +1,11 @@
+#name{
+    font-size: 30px;
+
+}
+
+table, thead, tbody, tr{
+    border: 1px;
+    border-collapse: collapse;
+    vertical-align: bottom;
+    text-align: left;
+}
